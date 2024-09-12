@@ -1,0 +1,33 @@
+*{
+padding: 0;
+margin: 0;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(1,200px);
+    grid-template-rows: repeat(1,250px);
+    background-color: rgb(37, 33, 33);
+}
+.item1{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    float: left;
+    width: 1298px;
+    height: 30px;
+    display: block;
+    margin-top: 200px;
+}
+ul li{
+float: left;
+margin-left: 2px;
+list-style-type: none;
+margin-left: 5px;
+margin-right: 5px;
+}
+ul li a{
+    float: left;
+    text-decoration: none;
+    padding: 3px;
+    color: antiquewhite;
+    }
