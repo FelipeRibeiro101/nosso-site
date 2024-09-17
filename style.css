@@ -13,7 +13,7 @@
         padding: 10px;
         color: white;
         float: left;
-        width: 1298px;
+        width: 1280px;
         height: 30px;
         display: block;
         margin-top: 200px;
@@ -36,7 +36,7 @@
     .lado{
         margin-left: -5px;
     }
-
+/* aside */
    
 aside.sidebar {
     width: 300px;
